@@ -1,4 +1,4 @@
-##NOTE: This cannot be done on mac/windows (or atleast I couldn't)
+## NOTE: This cannot be done on mac/windows (or atleast I couldn't)
 
 - Use the WebShell from picoCTF.
 - Get the `warm` file saved into the WebShell system using `$ wget https://mercury.picoctf.net/static/beec4f433e5ee5bfcd71bba8d5863faf/warm`.
